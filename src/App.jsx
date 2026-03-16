@@ -1,3 +1,5 @@
+// StellarPoll v4 — Staked voting dApp with inter-contract calls
+// Contracts: StakedPoll + VoteToken on Stellar Testnet
 import { useState, useEffect, useCallback } from 'react'
 import {
   Horizon,
