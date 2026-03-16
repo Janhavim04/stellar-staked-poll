@@ -1,0 +1,14 @@
+C:\Users\Janhavi\Desktop\stellar-staked-poll\target\release\deps\serde-a5c4a60ad91362fe.d: C:\Users\Janhavi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\Janhavi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\Janhavi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\Janhavi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\Janhavi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\Janhavi\Desktop\stellar-staked-poll\target\release\build\serde-70ae27897f9a4edd\out/private.rs
+
+C:\Users\Janhavi\Desktop\stellar-staked-poll\target\release\deps\libserde-a5c4a60ad91362fe.rlib: C:\Users\Janhavi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\Janhavi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\Janhavi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\Janhavi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\Janhavi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\Janhavi\Desktop\stellar-staked-poll\target\release\build\serde-70ae27897f9a4edd\out/private.rs
+
+C:\Users\Janhavi\Desktop\stellar-staked-poll\target\release\deps\libserde-a5c4a60ad91362fe.rmeta: C:\Users\Janhavi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\Janhavi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\Janhavi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\Janhavi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\Janhavi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\Janhavi\Desktop\stellar-staked-poll\target\release\build\serde-70ae27897f9a4edd\out/private.rs
+
+C:\Users\Janhavi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs:
+C:\Users\Janhavi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs:
+C:\Users\Janhavi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs:
+C:\Users\Janhavi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs:
+C:\Users\Janhavi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs:
+C:\Users\Janhavi\Desktop\stellar-staked-poll\target\release\build\serde-70ae27897f9a4edd\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\Janhavi\\Desktop\\stellar-staked-poll\\target\\release\\build\\serde-70ae27897f9a4edd\\out
