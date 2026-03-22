@@ -1,4 +1,4 @@
-#![no_std]
+﻿#![no_std]
 use soroban_sdk::{
     contract, contractimpl, contracttype, contracterror,
     token, Address, Env,
@@ -93,10 +93,10 @@ impl StakedPollContract {
             let no: i128 = env.storage().instance().get(&DataKey::NoStake).unwrap();
             env.storage().instance().set(&DataKey::NoStake, &(no + amount));
         }
-        let token_contract: Address = env.storage().instance()
-            .get(&DataKey::TokenContract).unwrap();
-        let vote_token = VoteTokenClient::new(&env, &token_contract);
-        vote_token.mint(&voter, &amount);
+        // let token_contract: Address = env.storage().instance()
+        //     .get(&DataKey::TokenContract).unwrap();
+        // let vote_token = VoteTokenClient::new(&env, &token_contract);
+        // vote_token.mint(&voter, &amount);
         env.events().publish(
             (soroban_sdk::symbol_short!("voted"),),
             (voter, option, amount)
@@ -176,9 +176,9 @@ fn get_xlm_address(env: &Env) -> Address {
     ))
 }
 
-mod vote_token {
-    soroban_sdk::contractimport!(
-        file = "C:/Users/Janhavi/Desktop/stellar-staked-poll/target/wasm32-unknown-unknown/release/vote_token.wasm"
-    );
-}
-use vote_token::Client as VoteTokenClient;
+// mod vote_token {
+//     soroban_sdk::contractimport!(
+//         file = "C:/Users/Janhavi/Desktop/stellar-staked-poll/target/wasm32-unknown-unknown/release/vote_token.wasm"
+//     );
+// }
+// use vote_token::Client as VoteTokenClient;
